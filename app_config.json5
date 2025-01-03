@@ -10,7 +10,7 @@
         {
           name: 'confetti-cms/view-php',
           hosts: [
-            '__HOST__',
+            'reindert-vetter2.confetti-cms.localhost',
           ],
           paths: [
             '/',
@@ -19,7 +19,7 @@
         // For all other services
         {
           hosts: [
-            '__HOST__',
+            'reindert-vetter2.confetti-cms.localhost',
           ],
           paths: [
             '/conf_api',
