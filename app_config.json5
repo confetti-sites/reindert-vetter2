@@ -18,7 +18,7 @@
         {
           name: 'confetti-cms/view-php',
           hosts: [
-            '__HOST__',
+            'reindert-vetter2.confetti-cms.localhost',
           ],
           paths: [
             '/',
@@ -27,7 +27,7 @@
         // For all api services
         {
           hosts: [
-            '__HOST__',
+            'reindert-vetter2.confetti-cms.localhost',
           ],
           paths: [
             // Replace '__SERVICE__' with the name of the service.
